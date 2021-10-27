@@ -1,5 +1,8 @@
 package MultiThread.Thread_Runnable;
 
+//*****注意：其实Thread 与 Runnable子类 是装饰者模式 不是代理模式
+
+
 //1，主类自己继承Thread/实现Runnable               (外部类)
 //2，主类的成员内部类继承Thread/实现Runnable            (静态内部类)
 //3，主类并列的实现类继承Thread/实现Runnable          (实现类)

@@ -1,5 +1,6 @@
 package MultiThread.Thread_Runnable;
 
+//*****注意：其实Thread 与 Runnable子类 是装饰者模式 不是代理模式
 
 //代理类代理自己已经由完善功能的子类
 public class Test2{
